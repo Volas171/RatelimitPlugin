@@ -45,7 +45,7 @@ public class main extends Plugin {
                 }
 
                 if(tdata.eventsPerSecond >= minEventsPerSec){
-                    player.sendMessage("[scarlet]You can't interact for 2 seconds because you exceeded ratelimit");
+                    player.sendMessage("[scarlet]You can't interact for 10 seconds because you exceeded rate limit");
                     tdata.interactUntil = 10;
                 }
                 tdata.eventsPerSecond = 0;
