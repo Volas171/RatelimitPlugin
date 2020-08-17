@@ -1,1 +1,2 @@
-# RatelimitPlugin, hi yes im volas , this is a plugin made by annoying mc and me that helps on ratelimit,lel i have no more words  to say on this readme bai
+# RatelimitPlugin
+Hi yes im volas , this is a plugin made to decrease o7 client functions by making them not edit stuff for 5 seconds , feel free to suggest changes.\
