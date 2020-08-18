@@ -1,7 +1,7 @@
 {
     "name":"Ratelimit Plugin",
-    "author": "AnoyingShulkerMC",
+    "author": "AnoyingShulkerMC and VolasYouKnow",
     "description": "simple ratelimit plugin.",
-    "version":"1.0",
+    "version":"1.5",
     "main": "ratelimit.main"
 }
