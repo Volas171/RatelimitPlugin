@@ -1,6 +1,6 @@
 package ratelimit;
 
 public class TempPlayerData {
-    public int eventsPerSecond = 0;
-    public int interactUntil = 0;
+    public int eventsPerSecond = 4;
+    public int interactUntil = 2;
 }
